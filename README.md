@@ -16,8 +16,6 @@ Imba:
   - ".imba"
   ace_mode: text
   tm_scope: source.imba
-  interpreters:
-  - imba
   language_id: 1057618448
 ```
 
